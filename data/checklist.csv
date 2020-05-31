@@ -1,0 +1,1186 @@
+forest_name,species,present
+Angeles National Forest,aglais_milberti,TRUE
+Apache-Sitgreaves National Forests,aglais_milberti,TRUE
+Arapaho and Roosevelt National Forests,aglais_milberti,TRUE
+Ashley National Forest,aglais_milberti,TRUE
+Beaverhead-Deerlodge National Forest,aglais_milberti,TRUE
+Bighorn National Forest,aglais_milberti,TRUE
+Bitterroot National Forest,aglais_milberti,TRUE
+Black Hills National Forest,aglais_milberti,TRUE
+Boise National Forest,aglais_milberti,TRUE
+Bridger-Teton National Forest,aglais_milberti,TRUE
+Caribou-Targhee National Forest,aglais_milberti,TRUE
+Carson National Forest,aglais_milberti,TRUE
+Cibola National Forest,aglais_milberti,TRUE
+Cleveland National Forest,aglais_milberti,FALSE
+Coconino National Forest,aglais_milberti,TRUE
+Columbia River Gorge National Scenic Area,aglais_milberti,TRUE
+Colville National Forest,aglais_milberti,TRUE
+Coronado National Forest,aglais_milberti,TRUE
+Custer Gallatin National Forest,aglais_milberti,TRUE
+Dakota Prairie Grasslands,aglais_milberti,FALSE
+Deschutes National Forest,aglais_milberti,TRUE
+Dixie National Forest,aglais_milberti,TRUE
+Eldorado National Forest,aglais_milberti,TRUE
+Fishlake National Forest,aglais_milberti,TRUE
+Flathead National Forest,aglais_milberti,TRUE
+Fremont-Winema National Forest,aglais_milberti,TRUE
+Gifford Pinchot National Forest,aglais_milberti,TRUE
+Gila National Forest,aglais_milberti,TRUE
+"Grand Mesa, Uncompahgre and Gunnison National Forests",aglais_milberti,TRUE
+Helena-Lewis and Clark National Forest,aglais_milberti,TRUE
+Humboldt-Toiyabe National Forest,aglais_milberti,TRUE
+Idaho Panhandle National Forests,aglais_milberti,TRUE
+Inyo National Forest,aglais_milberti,TRUE
+Kaibab National Forest,aglais_milberti,TRUE
+Klamath National Forest,aglais_milberti,TRUE
+Kootenai National Forest,aglais_milberti,TRUE
+Lake Tahoe Basin Management Unit,aglais_milberti,TRUE
+Lassen National Forest,aglais_milberti,TRUE
+Lincoln National Forest,aglais_milberti,TRUE
+Lolo National Forest,aglais_milberti,TRUE
+Los Padres National Forest,aglais_milberti,TRUE
+Malheur National Forest,aglais_milberti,TRUE
+Manti-La Sal National Forest,aglais_milberti,TRUE
+Medicine Bow-Routt National Forest,aglais_milberti,TRUE
+Mendocino National Forest,aglais_milberti,FALSE
+Modoc National Forest,aglais_milberti,TRUE
+Mt. Baker-Snoqualmie National Forest,aglais_milberti,TRUE
+Mt. Hood National Forest,aglais_milberti,TRUE
+Nebraska National Forest,aglais_milberti,TRUE
+Nez Perce-Clearwater National Forest,aglais_milberti,TRUE
+Ochoco National Forest,aglais_milberti,TRUE
+Okanogan-Wenatchee National Forest,aglais_milberti,TRUE
+Olympic National Forest,aglais_milberti,TRUE
+Payette National Forest,aglais_milberti,TRUE
+Pike and San Isabel National Forests,aglais_milberti,TRUE
+Plumas National Forest,aglais_milberti,TRUE
+Prescott National Forest,aglais_milberti,TRUE
+Rio Grande National Forest,aglais_milberti,TRUE
+Rogue River-Siskiyou National Forests,aglais_milberti,TRUE
+Salmon-Challis National Forest,aglais_milberti,TRUE
+San Bernardino National Forest,aglais_milberti,FALSE
+San Juan National Forest,aglais_milberti,TRUE
+Santa Fe National Forest,aglais_milberti,TRUE
+Sawtooth National Forest,aglais_milberti,TRUE
+Sequoia National Forest,aglais_milberti,TRUE
+Shasta-Trinity National Forest,aglais_milberti,TRUE
+Shoshone National Forest,aglais_milberti,TRUE
+Sierra National Forest,aglais_milberti,TRUE
+Siuslaw National Forest,aglais_milberti,TRUE
+Six Rivers National Forest,aglais_milberti,TRUE
+Stanislaus National Forest,aglais_milberti,TRUE
+Tahoe National Forest,aglais_milberti,TRUE
+Tonto National Forest,aglais_milberti,TRUE
+Uinta-Wasatch-Cache National Forest,aglais_milberti,TRUE
+Umatilla National Forest,aglais_milberti,TRUE
+Umpqua National Forest,aglais_milberti,TRUE
+Wallowa-Whitman National Forest,aglais_milberti,TRUE
+White River National Forest,aglais_milberti,TRUE
+Willamette National Forest,aglais_milberti,TRUE
+Angeles National Forest,boloria_epithore,TRUE
+Apache-Sitgreaves National Forests,boloria_epithore,TRUE
+Arapaho and Roosevelt National Forests,boloria_epithore,FALSE
+Ashley National Forest,boloria_epithore,TRUE
+Beaverhead-Deerlodge National Forest,boloria_epithore,TRUE
+Bighorn National Forest,boloria_epithore,FALSE
+Bitterroot National Forest,boloria_epithore,FALSE
+Black Hills National Forest,boloria_epithore,FALSE
+Boise National Forest,boloria_epithore,FALSE
+Bridger-Teton National Forest,boloria_epithore,TRUE
+Caribou-Targhee National Forest,boloria_epithore,TRUE
+Carson National Forest,boloria_epithore,FALSE
+Cibola National Forest,boloria_epithore,FALSE
+Cleveland National Forest,boloria_epithore,FALSE
+Coconino National Forest,boloria_epithore,TRUE
+Columbia River Gorge National Scenic Area,boloria_epithore,TRUE
+Colville National Forest,boloria_epithore,TRUE
+Coronado National Forest,boloria_epithore,FALSE
+Custer Gallatin National Forest,boloria_epithore,TRUE
+Dakota Prairie Grasslands,boloria_epithore,FALSE
+Deschutes National Forest,boloria_epithore,TRUE
+Dixie National Forest,boloria_epithore,TRUE
+Eldorado National Forest,boloria_epithore,TRUE
+Fishlake National Forest,boloria_epithore,TRUE
+Flathead National Forest,boloria_epithore,TRUE
+Fremont-Winema National Forest,boloria_epithore,TRUE
+Gifford Pinchot National Forest,boloria_epithore,TRUE
+Gila National Forest,boloria_epithore,FALSE
+"Grand Mesa, Uncompahgre and Gunnison National Forests",boloria_epithore,FALSE
+Helena-Lewis and Clark National Forest,boloria_epithore,TRUE
+Humboldt-Toiyabe National Forest,boloria_epithore,TRUE
+Idaho Panhandle National Forests,boloria_epithore,TRUE
+Inyo National Forest,boloria_epithore,TRUE
+Kaibab National Forest,boloria_epithore,TRUE
+Klamath National Forest,boloria_epithore,TRUE
+Kootenai National Forest,boloria_epithore,TRUE
+Lake Tahoe Basin Management Unit,boloria_epithore,TRUE
+Lassen National Forest,boloria_epithore,TRUE
+Lincoln National Forest,boloria_epithore,FALSE
+Lolo National Forest,boloria_epithore,TRUE
+Los Padres National Forest,boloria_epithore,TRUE
+Malheur National Forest,boloria_epithore,FALSE
+Manti-La Sal National Forest,boloria_epithore,TRUE
+Medicine Bow-Routt National Forest,boloria_epithore,FALSE
+Mendocino National Forest,boloria_epithore,TRUE
+Modoc National Forest,boloria_epithore,TRUE
+Mt. Baker-Snoqualmie National Forest,boloria_epithore,TRUE
+Mt. Hood National Forest,boloria_epithore,TRUE
+Nebraska National Forest,boloria_epithore,FALSE
+Nez Perce-Clearwater National Forest,boloria_epithore,TRUE
+Ochoco National Forest,boloria_epithore,FALSE
+Okanogan-Wenatchee National Forest,boloria_epithore,TRUE
+Olympic National Forest,boloria_epithore,TRUE
+Payette National Forest,boloria_epithore,FALSE
+Pike and San Isabel National Forests,boloria_epithore,FALSE
+Plumas National Forest,boloria_epithore,TRUE
+Prescott National Forest,boloria_epithore,TRUE
+Rio Grande National Forest,boloria_epithore,FALSE
+Rogue River-Siskiyou National Forests,boloria_epithore,TRUE
+Salmon-Challis National Forest,boloria_epithore,TRUE
+San Bernardino National Forest,boloria_epithore,TRUE
+San Juan National Forest,boloria_epithore,FALSE
+Santa Fe National Forest,boloria_epithore,FALSE
+Sawtooth National Forest,boloria_epithore,TRUE
+Sequoia National Forest,boloria_epithore,TRUE
+Shasta-Trinity National Forest,boloria_epithore,TRUE
+Shoshone National Forest,boloria_epithore,FALSE
+Sierra National Forest,boloria_epithore,TRUE
+Siuslaw National Forest,boloria_epithore,TRUE
+Six Rivers National Forest,boloria_epithore,TRUE
+Stanislaus National Forest,boloria_epithore,TRUE
+Tahoe National Forest,boloria_epithore,TRUE
+Tonto National Forest,boloria_epithore,TRUE
+Uinta-Wasatch-Cache National Forest,boloria_epithore,TRUE
+Umatilla National Forest,boloria_epithore,TRUE
+Umpqua National Forest,boloria_epithore,TRUE
+Wallowa-Whitman National Forest,boloria_epithore,TRUE
+White River National Forest,boloria_epithore,FALSE
+Willamette National Forest,boloria_epithore,TRUE
+Angeles National Forest,celastrina_echo,TRUE
+Apache-Sitgreaves National Forests,celastrina_echo,TRUE
+Arapaho and Roosevelt National Forests,celastrina_echo,TRUE
+Ashley National Forest,celastrina_echo,FALSE
+Beaverhead-Deerlodge National Forest,celastrina_echo,TRUE
+Bighorn National Forest,celastrina_echo,TRUE
+Bitterroot National Forest,celastrina_echo,FALSE
+Black Hills National Forest,celastrina_echo,TRUE
+Boise National Forest,celastrina_echo,TRUE
+Bridger-Teton National Forest,celastrina_echo,TRUE
+Caribou-Targhee National Forest,celastrina_echo,TRUE
+Carson National Forest,celastrina_echo,TRUE
+Cibola National Forest,celastrina_echo,TRUE
+Cleveland National Forest,celastrina_echo,TRUE
+Coconino National Forest,celastrina_echo,TRUE
+Columbia River Gorge National Scenic Area,celastrina_echo,TRUE
+Colville National Forest,celastrina_echo,TRUE
+Coronado National Forest,celastrina_echo,TRUE
+Custer Gallatin National Forest,celastrina_echo,TRUE
+Dakota Prairie Grasslands,celastrina_echo,FALSE
+Deschutes National Forest,celastrina_echo,TRUE
+Dixie National Forest,celastrina_echo,TRUE
+Eldorado National Forest,celastrina_echo,TRUE
+Fishlake National Forest,celastrina_echo,TRUE
+Flathead National Forest,celastrina_echo,TRUE
+Fremont-Winema National Forest,celastrina_echo,TRUE
+Gifford Pinchot National Forest,celastrina_echo,TRUE
+Gila National Forest,celastrina_echo,TRUE
+"Grand Mesa, Uncompahgre and Gunnison National Forests",celastrina_echo,TRUE
+Helena-Lewis and Clark National Forest,celastrina_echo,TRUE
+Humboldt-Toiyabe National Forest,celastrina_echo,TRUE
+Idaho Panhandle National Forests,celastrina_echo,TRUE
+Inyo National Forest,celastrina_echo,TRUE
+Kaibab National Forest,celastrina_echo,TRUE
+Klamath National Forest,celastrina_echo,TRUE
+Kootenai National Forest,celastrina_echo,TRUE
+Lake Tahoe Basin Management Unit,celastrina_echo,TRUE
+Lassen National Forest,celastrina_echo,TRUE
+Lincoln National Forest,celastrina_echo,TRUE
+Lolo National Forest,celastrina_echo,TRUE
+Los Padres National Forest,celastrina_echo,TRUE
+Malheur National Forest,celastrina_echo,FALSE
+Manti-La Sal National Forest,celastrina_echo,TRUE
+Medicine Bow-Routt National Forest,celastrina_echo,TRUE
+Mendocino National Forest,celastrina_echo,TRUE
+Modoc National Forest,celastrina_echo,TRUE
+Mt. Baker-Snoqualmie National Forest,celastrina_echo,TRUE
+Mt. Hood National Forest,celastrina_echo,TRUE
+Nebraska National Forest,celastrina_echo,TRUE
+Nez Perce-Clearwater National Forest,celastrina_echo,TRUE
+Ochoco National Forest,celastrina_echo,FALSE
+Okanogan-Wenatchee National Forest,celastrina_echo,TRUE
+Olympic National Forest,celastrina_echo,TRUE
+Payette National Forest,celastrina_echo,TRUE
+Pike and San Isabel National Forests,celastrina_echo,TRUE
+Plumas National Forest,celastrina_echo,TRUE
+Prescott National Forest,celastrina_echo,TRUE
+Rio Grande National Forest,celastrina_echo,TRUE
+Rogue River-Siskiyou National Forests,celastrina_echo,TRUE
+Salmon-Challis National Forest,celastrina_echo,TRUE
+San Bernardino National Forest,celastrina_echo,TRUE
+San Juan National Forest,celastrina_echo,TRUE
+Santa Fe National Forest,celastrina_echo,TRUE
+Sawtooth National Forest,celastrina_echo,TRUE
+Sequoia National Forest,celastrina_echo,TRUE
+Shasta-Trinity National Forest,celastrina_echo,TRUE
+Shoshone National Forest,celastrina_echo,TRUE
+Sierra National Forest,celastrina_echo,TRUE
+Siuslaw National Forest,celastrina_echo,TRUE
+Six Rivers National Forest,celastrina_echo,TRUE
+Stanislaus National Forest,celastrina_echo,TRUE
+Tahoe National Forest,celastrina_echo,TRUE
+Tonto National Forest,celastrina_echo,TRUE
+Uinta-Wasatch-Cache National Forest,celastrina_echo,TRUE
+Umatilla National Forest,celastrina_echo,TRUE
+Umpqua National Forest,celastrina_echo,TRUE
+Wallowa-Whitman National Forest,celastrina_echo,TRUE
+White River National Forest,celastrina_echo,FALSE
+Willamette National Forest,celastrina_echo,TRUE
+Angeles National Forest,colias_eurytheme,TRUE
+Apache-Sitgreaves National Forests,colias_eurytheme,TRUE
+Arapaho and Roosevelt National Forests,colias_eurytheme,TRUE
+Ashley National Forest,colias_eurytheme,TRUE
+Beaverhead-Deerlodge National Forest,colias_eurytheme,TRUE
+Bighorn National Forest,colias_eurytheme,TRUE
+Bitterroot National Forest,colias_eurytheme,FALSE
+Black Hills National Forest,colias_eurytheme,TRUE
+Boise National Forest,colias_eurytheme,TRUE
+Bridger-Teton National Forest,colias_eurytheme,TRUE
+Caribou-Targhee National Forest,colias_eurytheme,TRUE
+Carson National Forest,colias_eurytheme,TRUE
+Cibola National Forest,colias_eurytheme,TRUE
+Cleveland National Forest,colias_eurytheme,TRUE
+Coconino National Forest,colias_eurytheme,TRUE
+Columbia River Gorge National Scenic Area,colias_eurytheme,TRUE
+Colville National Forest,colias_eurytheme,TRUE
+Coronado National Forest,colias_eurytheme,TRUE
+Custer Gallatin National Forest,colias_eurytheme,TRUE
+Dakota Prairie Grasslands,colias_eurytheme,FALSE
+Deschutes National Forest,colias_eurytheme,TRUE
+Dixie National Forest,colias_eurytheme,TRUE
+Eldorado National Forest,colias_eurytheme,TRUE
+Fishlake National Forest,colias_eurytheme,TRUE
+Flathead National Forest,colias_eurytheme,TRUE
+Fremont-Winema National Forest,colias_eurytheme,TRUE
+Gifford Pinchot National Forest,colias_eurytheme,TRUE
+Gila National Forest,colias_eurytheme,TRUE
+"Grand Mesa, Uncompahgre and Gunnison National Forests",colias_eurytheme,TRUE
+Helena-Lewis and Clark National Forest,colias_eurytheme,TRUE
+Humboldt-Toiyabe National Forest,colias_eurytheme,TRUE
+Idaho Panhandle National Forests,colias_eurytheme,TRUE
+Inyo National Forest,colias_eurytheme,TRUE
+Kaibab National Forest,colias_eurytheme,TRUE
+Klamath National Forest,colias_eurytheme,TRUE
+Kootenai National Forest,colias_eurytheme,TRUE
+Lake Tahoe Basin Management Unit,colias_eurytheme,TRUE
+Lassen National Forest,colias_eurytheme,TRUE
+Lincoln National Forest,colias_eurytheme,TRUE
+Lolo National Forest,colias_eurytheme,TRUE
+Los Padres National Forest,colias_eurytheme,TRUE
+Malheur National Forest,colias_eurytheme,TRUE
+Manti-La Sal National Forest,colias_eurytheme,TRUE
+Medicine Bow-Routt National Forest,colias_eurytheme,TRUE
+Mendocino National Forest,colias_eurytheme,TRUE
+Modoc National Forest,colias_eurytheme,TRUE
+Mt. Baker-Snoqualmie National Forest,colias_eurytheme,TRUE
+Mt. Hood National Forest,colias_eurytheme,TRUE
+Nebraska National Forest,colias_eurytheme,TRUE
+Nez Perce-Clearwater National Forest,colias_eurytheme,TRUE
+Ochoco National Forest,colias_eurytheme,TRUE
+Okanogan-Wenatchee National Forest,colias_eurytheme,TRUE
+Olympic National Forest,colias_eurytheme,TRUE
+Payette National Forest,colias_eurytheme,TRUE
+Pike and San Isabel National Forests,colias_eurytheme,TRUE
+Plumas National Forest,colias_eurytheme,TRUE
+Prescott National Forest,colias_eurytheme,TRUE
+Rio Grande National Forest,colias_eurytheme,TRUE
+Rogue River-Siskiyou National Forests,colias_eurytheme,TRUE
+Salmon-Challis National Forest,colias_eurytheme,TRUE
+San Bernardino National Forest,colias_eurytheme,TRUE
+San Juan National Forest,colias_eurytheme,TRUE
+Santa Fe National Forest,colias_eurytheme,TRUE
+Sawtooth National Forest,colias_eurytheme,TRUE
+Sequoia National Forest,colias_eurytheme,TRUE
+Shasta-Trinity National Forest,colias_eurytheme,TRUE
+Shoshone National Forest,colias_eurytheme,TRUE
+Sierra National Forest,colias_eurytheme,TRUE
+Siuslaw National Forest,colias_eurytheme,TRUE
+Six Rivers National Forest,colias_eurytheme,TRUE
+Stanislaus National Forest,colias_eurytheme,TRUE
+Tahoe National Forest,colias_eurytheme,TRUE
+Tonto National Forest,colias_eurytheme,TRUE
+Uinta-Wasatch-Cache National Forest,colias_eurytheme,TRUE
+Umatilla National Forest,colias_eurytheme,TRUE
+Umpqua National Forest,colias_eurytheme,TRUE
+Wallowa-Whitman National Forest,colias_eurytheme,TRUE
+White River National Forest,colias_eurytheme,TRUE
+Willamette National Forest,colias_eurytheme,TRUE
+Angeles National Forest,erebia_epipsodea,FALSE
+Apache-Sitgreaves National Forests,erebia_epipsodea,FALSE
+Arapaho and Roosevelt National Forests,erebia_epipsodea,TRUE
+Ashley National Forest,erebia_epipsodea,TRUE
+Beaverhead-Deerlodge National Forest,erebia_epipsodea,TRUE
+Bighorn National Forest,erebia_epipsodea,TRUE
+Bitterroot National Forest,erebia_epipsodea,TRUE
+Black Hills National Forest,erebia_epipsodea,FALSE
+Boise National Forest,erebia_epipsodea,TRUE
+Bridger-Teton National Forest,erebia_epipsodea,TRUE
+Caribou-Targhee National Forest,erebia_epipsodea,TRUE
+Carson National Forest,erebia_epipsodea,TRUE
+Cibola National Forest,erebia_epipsodea,TRUE
+Cleveland National Forest,erebia_epipsodea,FALSE
+Coconino National Forest,erebia_epipsodea,FALSE
+Columbia River Gorge National Scenic Area,erebia_epipsodea,FALSE
+Colville National Forest,erebia_epipsodea,TRUE
+Coronado National Forest,erebia_epipsodea,FALSE
+Custer Gallatin National Forest,erebia_epipsodea,TRUE
+Dakota Prairie Grasslands,erebia_epipsodea,FALSE
+Deschutes National Forest,erebia_epipsodea,FALSE
+Dixie National Forest,erebia_epipsodea,FALSE
+Eldorado National Forest,erebia_epipsodea,FALSE
+Fishlake National Forest,erebia_epipsodea,TRUE
+Flathead National Forest,erebia_epipsodea,TRUE
+Fremont-Winema National Forest,erebia_epipsodea,FALSE
+Gifford Pinchot National Forest,erebia_epipsodea,FALSE
+Gila National Forest,erebia_epipsodea,FALSE
+"Grand Mesa, Uncompahgre and Gunnison National Forests",erebia_epipsodea,TRUE
+Helena-Lewis and Clark National Forest,erebia_epipsodea,TRUE
+Humboldt-Toiyabe National Forest,erebia_epipsodea,TRUE
+Idaho Panhandle National Forests,erebia_epipsodea,TRUE
+Inyo National Forest,erebia_epipsodea,TRUE
+Kaibab National Forest,erebia_epipsodea,FALSE
+Klamath National Forest,erebia_epipsodea,FALSE
+Kootenai National Forest,erebia_epipsodea,TRUE
+Lake Tahoe Basin Management Unit,erebia_epipsodea,FALSE
+Lassen National Forest,erebia_epipsodea,FALSE
+Lincoln National Forest,erebia_epipsodea,FALSE
+Lolo National Forest,erebia_epipsodea,TRUE
+Los Padres National Forest,erebia_epipsodea,FALSE
+Malheur National Forest,erebia_epipsodea,FALSE
+Manti-La Sal National Forest,erebia_epipsodea,TRUE
+Medicine Bow-Routt National Forest,erebia_epipsodea,TRUE
+Mendocino National Forest,erebia_epipsodea,FALSE
+Modoc National Forest,erebia_epipsodea,FALSE
+Mt. Baker-Snoqualmie National Forest,erebia_epipsodea,TRUE
+Mt. Hood National Forest,erebia_epipsodea,FALSE
+Nebraska National Forest,erebia_epipsodea,FALSE
+Nez Perce-Clearwater National Forest,erebia_epipsodea,TRUE
+Ochoco National Forest,erebia_epipsodea,FALSE
+Okanogan-Wenatchee National Forest,erebia_epipsodea,TRUE
+Olympic National Forest,erebia_epipsodea,FALSE
+Payette National Forest,erebia_epipsodea,TRUE
+Pike and San Isabel National Forests,erebia_epipsodea,TRUE
+Plumas National Forest,erebia_epipsodea,FALSE
+Prescott National Forest,erebia_epipsodea,FALSE
+Rio Grande National Forest,erebia_epipsodea,TRUE
+Rogue River-Siskiyou National Forests,erebia_epipsodea,FALSE
+Salmon-Challis National Forest,erebia_epipsodea,TRUE
+San Bernardino National Forest,erebia_epipsodea,FALSE
+San Juan National Forest,erebia_epipsodea,TRUE
+Santa Fe National Forest,erebia_epipsodea,TRUE
+Sawtooth National Forest,erebia_epipsodea,TRUE
+Sequoia National Forest,erebia_epipsodea,TRUE
+Shasta-Trinity National Forest,erebia_epipsodea,FALSE
+Shoshone National Forest,erebia_epipsodea,TRUE
+Sierra National Forest,erebia_epipsodea,TRUE
+Siuslaw National Forest,erebia_epipsodea,FALSE
+Six Rivers National Forest,erebia_epipsodea,FALSE
+Stanislaus National Forest,erebia_epipsodea,FALSE
+Tahoe National Forest,erebia_epipsodea,FALSE
+Tonto National Forest,erebia_epipsodea,FALSE
+Uinta-Wasatch-Cache National Forest,erebia_epipsodea,TRUE
+Umatilla National Forest,erebia_epipsodea,TRUE
+Umpqua National Forest,erebia_epipsodea,FALSE
+Wallowa-Whitman National Forest,erebia_epipsodea,TRUE
+White River National Forest,erebia_epipsodea,TRUE
+Willamette National Forest,erebia_epipsodea,FALSE
+Angeles National Forest,eurema_mexicana,TRUE
+Apache-Sitgreaves National Forests,eurema_mexicana,TRUE
+Arapaho and Roosevelt National Forests,eurema_mexicana,TRUE
+Ashley National Forest,eurema_mexicana,FALSE
+Beaverhead-Deerlodge National Forest,eurema_mexicana,FALSE
+Bighorn National Forest,eurema_mexicana,FALSE
+Bitterroot National Forest,eurema_mexicana,FALSE
+Black Hills National Forest,eurema_mexicana,FALSE
+Boise National Forest,eurema_mexicana,FALSE
+Bridger-Teton National Forest,eurema_mexicana,FALSE
+Caribou-Targhee National Forest,eurema_mexicana,FALSE
+Carson National Forest,eurema_mexicana,TRUE
+Cibola National Forest,eurema_mexicana,TRUE
+Cleveland National Forest,eurema_mexicana,TRUE
+Coconino National Forest,eurema_mexicana,TRUE
+Columbia River Gorge National Scenic Area,eurema_mexicana,FALSE
+Colville National Forest,eurema_mexicana,FALSE
+Coronado National Forest,eurema_mexicana,TRUE
+Custer Gallatin National Forest,eurema_mexicana,FALSE
+Dakota Prairie Grasslands,eurema_mexicana,FALSE
+Deschutes National Forest,eurema_mexicana,FALSE
+Dixie National Forest,eurema_mexicana,FALSE
+Eldorado National Forest,eurema_mexicana,FALSE
+Fishlake National Forest,eurema_mexicana,FALSE
+Flathead National Forest,eurema_mexicana,FALSE
+Fremont-Winema National Forest,eurema_mexicana,FALSE
+Gifford Pinchot National Forest,eurema_mexicana,FALSE
+Gila National Forest,eurema_mexicana,TRUE
+"Grand Mesa, Uncompahgre and Gunnison National Forests",eurema_mexicana,FALSE
+Helena-Lewis and Clark National Forest,eurema_mexicana,FALSE
+Humboldt-Toiyabe National Forest,eurema_mexicana,TRUE
+Idaho Panhandle National Forests,eurema_mexicana,FALSE
+Inyo National Forest,eurema_mexicana,FALSE
+Kaibab National Forest,eurema_mexicana,TRUE
+Klamath National Forest,eurema_mexicana,FALSE
+Kootenai National Forest,eurema_mexicana,FALSE
+Lake Tahoe Basin Management Unit,eurema_mexicana,FALSE
+Lassen National Forest,eurema_mexicana,FALSE
+Lincoln National Forest,eurema_mexicana,TRUE
+Lolo National Forest,eurema_mexicana,FALSE
+Los Padres National Forest,eurema_mexicana,FALSE
+Malheur National Forest,eurema_mexicana,FALSE
+Manti-La Sal National Forest,eurema_mexicana,FALSE
+Medicine Bow-Routt National Forest,eurema_mexicana,TRUE
+Mendocino National Forest,eurema_mexicana,FALSE
+Modoc National Forest,eurema_mexicana,FALSE
+Mt. Baker-Snoqualmie National Forest,eurema_mexicana,FALSE
+Mt. Hood National Forest,eurema_mexicana,FALSE
+Nebraska National Forest,eurema_mexicana,FALSE
+Nez Perce-Clearwater National Forest,eurema_mexicana,FALSE
+Ochoco National Forest,eurema_mexicana,FALSE
+Okanogan-Wenatchee National Forest,eurema_mexicana,FALSE
+Olympic National Forest,eurema_mexicana,FALSE
+Payette National Forest,eurema_mexicana,FALSE
+Pike and San Isabel National Forests,eurema_mexicana,FALSE
+Plumas National Forest,eurema_mexicana,FALSE
+Prescott National Forest,eurema_mexicana,TRUE
+Rio Grande National Forest,eurema_mexicana,FALSE
+Rogue River-Siskiyou National Forests,eurema_mexicana,FALSE
+Salmon-Challis National Forest,eurema_mexicana,FALSE
+San Bernardino National Forest,eurema_mexicana,TRUE
+San Juan National Forest,eurema_mexicana,TRUE
+Santa Fe National Forest,eurema_mexicana,TRUE
+Sawtooth National Forest,eurema_mexicana,FALSE
+Sequoia National Forest,eurema_mexicana,FALSE
+Shasta-Trinity National Forest,eurema_mexicana,FALSE
+Shoshone National Forest,eurema_mexicana,FALSE
+Sierra National Forest,eurema_mexicana,FALSE
+Siuslaw National Forest,eurema_mexicana,FALSE
+Six Rivers National Forest,eurema_mexicana,FALSE
+Stanislaus National Forest,eurema_mexicana,FALSE
+Tahoe National Forest,eurema_mexicana,FALSE
+Tonto National Forest,eurema_mexicana,TRUE
+Uinta-Wasatch-Cache National Forest,eurema_mexicana,FALSE
+Umatilla National Forest,eurema_mexicana,FALSE
+Umpqua National Forest,eurema_mexicana,FALSE
+Wallowa-Whitman National Forest,eurema_mexicana,FALSE
+White River National Forest,eurema_mexicana,FALSE
+Willamette National Forest,eurema_mexicana,FALSE
+Angeles National Forest,gyrocheilus_patrobas,FALSE
+Apache-Sitgreaves National Forests,gyrocheilus_patrobas,FALSE
+Arapaho and Roosevelt National Forests,gyrocheilus_patrobas,FALSE
+Ashley National Forest,gyrocheilus_patrobas,FALSE
+Beaverhead-Deerlodge National Forest,gyrocheilus_patrobas,FALSE
+Bighorn National Forest,gyrocheilus_patrobas,FALSE
+Bitterroot National Forest,gyrocheilus_patrobas,FALSE
+Black Hills National Forest,gyrocheilus_patrobas,FALSE
+Boise National Forest,gyrocheilus_patrobas,FALSE
+Bridger-Teton National Forest,gyrocheilus_patrobas,FALSE
+Caribou-Targhee National Forest,gyrocheilus_patrobas,FALSE
+Carson National Forest,gyrocheilus_patrobas,FALSE
+Cibola National Forest,gyrocheilus_patrobas,FALSE
+Cleveland National Forest,gyrocheilus_patrobas,FALSE
+Coconino National Forest,gyrocheilus_patrobas,FALSE
+Columbia River Gorge National Scenic Area,gyrocheilus_patrobas,FALSE
+Colville National Forest,gyrocheilus_patrobas,FALSE
+Coronado National Forest,gyrocheilus_patrobas,TRUE
+Custer Gallatin National Forest,gyrocheilus_patrobas,FALSE
+Dakota Prairie Grasslands,gyrocheilus_patrobas,FALSE
+Deschutes National Forest,gyrocheilus_patrobas,FALSE
+Dixie National Forest,gyrocheilus_patrobas,FALSE
+Eldorado National Forest,gyrocheilus_patrobas,FALSE
+Fishlake National Forest,gyrocheilus_patrobas,FALSE
+Flathead National Forest,gyrocheilus_patrobas,FALSE
+Fremont-Winema National Forest,gyrocheilus_patrobas,FALSE
+Gifford Pinchot National Forest,gyrocheilus_patrobas,FALSE
+Gila National Forest,gyrocheilus_patrobas,FALSE
+"Grand Mesa, Uncompahgre and Gunnison National Forests",gyrocheilus_patrobas,FALSE
+Helena-Lewis and Clark National Forest,gyrocheilus_patrobas,FALSE
+Humboldt-Toiyabe National Forest,gyrocheilus_patrobas,FALSE
+Idaho Panhandle National Forests,gyrocheilus_patrobas,FALSE
+Inyo National Forest,gyrocheilus_patrobas,FALSE
+Kaibab National Forest,gyrocheilus_patrobas,FALSE
+Klamath National Forest,gyrocheilus_patrobas,FALSE
+Kootenai National Forest,gyrocheilus_patrobas,FALSE
+Lake Tahoe Basin Management Unit,gyrocheilus_patrobas,FALSE
+Lassen National Forest,gyrocheilus_patrobas,FALSE
+Lincoln National Forest,gyrocheilus_patrobas,FALSE
+Lolo National Forest,gyrocheilus_patrobas,FALSE
+Los Padres National Forest,gyrocheilus_patrobas,FALSE
+Malheur National Forest,gyrocheilus_patrobas,FALSE
+Manti-La Sal National Forest,gyrocheilus_patrobas,FALSE
+Medicine Bow-Routt National Forest,gyrocheilus_patrobas,FALSE
+Mendocino National Forest,gyrocheilus_patrobas,FALSE
+Modoc National Forest,gyrocheilus_patrobas,FALSE
+Mt. Baker-Snoqualmie National Forest,gyrocheilus_patrobas,FALSE
+Mt. Hood National Forest,gyrocheilus_patrobas,FALSE
+Nebraska National Forest,gyrocheilus_patrobas,FALSE
+Nez Perce-Clearwater National Forest,gyrocheilus_patrobas,FALSE
+Ochoco National Forest,gyrocheilus_patrobas,FALSE
+Okanogan-Wenatchee National Forest,gyrocheilus_patrobas,FALSE
+Olympic National Forest,gyrocheilus_patrobas,FALSE
+Payette National Forest,gyrocheilus_patrobas,FALSE
+Pike and San Isabel National Forests,gyrocheilus_patrobas,FALSE
+Plumas National Forest,gyrocheilus_patrobas,FALSE
+Prescott National Forest,gyrocheilus_patrobas,FALSE
+Rio Grande National Forest,gyrocheilus_patrobas,FALSE
+Rogue River-Siskiyou National Forests,gyrocheilus_patrobas,FALSE
+Salmon-Challis National Forest,gyrocheilus_patrobas,FALSE
+San Bernardino National Forest,gyrocheilus_patrobas,FALSE
+San Juan National Forest,gyrocheilus_patrobas,FALSE
+Santa Fe National Forest,gyrocheilus_patrobas,FALSE
+Sawtooth National Forest,gyrocheilus_patrobas,FALSE
+Sequoia National Forest,gyrocheilus_patrobas,FALSE
+Shasta-Trinity National Forest,gyrocheilus_patrobas,FALSE
+Shoshone National Forest,gyrocheilus_patrobas,FALSE
+Sierra National Forest,gyrocheilus_patrobas,FALSE
+Siuslaw National Forest,gyrocheilus_patrobas,FALSE
+Six Rivers National Forest,gyrocheilus_patrobas,FALSE
+Stanislaus National Forest,gyrocheilus_patrobas,FALSE
+Tahoe National Forest,gyrocheilus_patrobas,FALSE
+Tonto National Forest,gyrocheilus_patrobas,FALSE
+Uinta-Wasatch-Cache National Forest,gyrocheilus_patrobas,FALSE
+Umatilla National Forest,gyrocheilus_patrobas,FALSE
+Umpqua National Forest,gyrocheilus_patrobas,FALSE
+Wallowa-Whitman National Forest,gyrocheilus_patrobas,FALSE
+White River National Forest,gyrocheilus_patrobas,FALSE
+Willamette National Forest,gyrocheilus_patrobas,FALSE
+Angeles National Forest,libytheana_carinenta,TRUE
+Apache-Sitgreaves National Forests,libytheana_carinenta,TRUE
+Arapaho and Roosevelt National Forests,libytheana_carinenta,TRUE
+Ashley National Forest,libytheana_carinenta,FALSE
+Beaverhead-Deerlodge National Forest,libytheana_carinenta,FALSE
+Bighorn National Forest,libytheana_carinenta,FALSE
+Bitterroot National Forest,libytheana_carinenta,FALSE
+Black Hills National Forest,libytheana_carinenta,FALSE
+Boise National Forest,libytheana_carinenta,FALSE
+Bridger-Teton National Forest,libytheana_carinenta,FALSE
+Caribou-Targhee National Forest,libytheana_carinenta,FALSE
+Carson National Forest,libytheana_carinenta,TRUE
+Cibola National Forest,libytheana_carinenta,TRUE
+Cleveland National Forest,libytheana_carinenta,TRUE
+Coconino National Forest,libytheana_carinenta,TRUE
+Columbia River Gorge National Scenic Area,libytheana_carinenta,FALSE
+Colville National Forest,libytheana_carinenta,FALSE
+Coronado National Forest,libytheana_carinenta,TRUE
+Custer Gallatin National Forest,libytheana_carinenta,FALSE
+Dakota Prairie Grasslands,libytheana_carinenta,FALSE
+Deschutes National Forest,libytheana_carinenta,FALSE
+Dixie National Forest,libytheana_carinenta,TRUE
+Eldorado National Forest,libytheana_carinenta,FALSE
+Fishlake National Forest,libytheana_carinenta,FALSE
+Flathead National Forest,libytheana_carinenta,FALSE
+Fremont-Winema National Forest,libytheana_carinenta,FALSE
+Gifford Pinchot National Forest,libytheana_carinenta,FALSE
+Gila National Forest,libytheana_carinenta,TRUE
+"Grand Mesa, Uncompahgre and Gunnison National Forests",libytheana_carinenta,FALSE
+Helena-Lewis and Clark National Forest,libytheana_carinenta,FALSE
+Humboldt-Toiyabe National Forest,libytheana_carinenta,TRUE
+Idaho Panhandle National Forests,libytheana_carinenta,FALSE
+Inyo National Forest,libytheana_carinenta,FALSE
+Kaibab National Forest,libytheana_carinenta,TRUE
+Klamath National Forest,libytheana_carinenta,FALSE
+Kootenai National Forest,libytheana_carinenta,FALSE
+Lake Tahoe Basin Management Unit,libytheana_carinenta,FALSE
+Lassen National Forest,libytheana_carinenta,FALSE
+Lincoln National Forest,libytheana_carinenta,TRUE
+Lolo National Forest,libytheana_carinenta,FALSE
+Los Padres National Forest,libytheana_carinenta,FALSE
+Malheur National Forest,libytheana_carinenta,FALSE
+Manti-La Sal National Forest,libytheana_carinenta,FALSE
+Medicine Bow-Routt National Forest,libytheana_carinenta,TRUE
+Mendocino National Forest,libytheana_carinenta,FALSE
+Modoc National Forest,libytheana_carinenta,FALSE
+Mt. Baker-Snoqualmie National Forest,libytheana_carinenta,FALSE
+Mt. Hood National Forest,libytheana_carinenta,FALSE
+Nebraska National Forest,libytheana_carinenta,TRUE
+Nez Perce-Clearwater National Forest,libytheana_carinenta,FALSE
+Ochoco National Forest,libytheana_carinenta,FALSE
+Okanogan-Wenatchee National Forest,libytheana_carinenta,FALSE
+Olympic National Forest,libytheana_carinenta,FALSE
+Payette National Forest,libytheana_carinenta,FALSE
+Pike and San Isabel National Forests,libytheana_carinenta,TRUE
+Plumas National Forest,libytheana_carinenta,FALSE
+Prescott National Forest,libytheana_carinenta,TRUE
+Rio Grande National Forest,libytheana_carinenta,FALSE
+Rogue River-Siskiyou National Forests,libytheana_carinenta,FALSE
+Salmon-Challis National Forest,libytheana_carinenta,FALSE
+San Bernardino National Forest,libytheana_carinenta,TRUE
+San Juan National Forest,libytheana_carinenta,FALSE
+Santa Fe National Forest,libytheana_carinenta,TRUE
+Sawtooth National Forest,libytheana_carinenta,FALSE
+Sequoia National Forest,libytheana_carinenta,FALSE
+Shasta-Trinity National Forest,libytheana_carinenta,FALSE
+Shoshone National Forest,libytheana_carinenta,FALSE
+Sierra National Forest,libytheana_carinenta,FALSE
+Siuslaw National Forest,libytheana_carinenta,FALSE
+Six Rivers National Forest,libytheana_carinenta,FALSE
+Stanislaus National Forest,libytheana_carinenta,FALSE
+Tahoe National Forest,libytheana_carinenta,FALSE
+Tonto National Forest,libytheana_carinenta,TRUE
+Uinta-Wasatch-Cache National Forest,libytheana_carinenta,FALSE
+Umatilla National Forest,libytheana_carinenta,FALSE
+Umpqua National Forest,libytheana_carinenta,FALSE
+Wallowa-Whitman National Forest,libytheana_carinenta,FALSE
+White River National Forest,libytheana_carinenta,FALSE
+Willamette National Forest,libytheana_carinenta,FALSE
+Angeles National Forest,lycaena_heteronea,FALSE
+Apache-Sitgreaves National Forests,lycaena_heteronea,FALSE
+Arapaho and Roosevelt National Forests,lycaena_heteronea,TRUE
+Ashley National Forest,lycaena_heteronea,TRUE
+Beaverhead-Deerlodge National Forest,lycaena_heteronea,TRUE
+Bighorn National Forest,lycaena_heteronea,TRUE
+Bitterroot National Forest,lycaena_heteronea,TRUE
+Black Hills National Forest,lycaena_heteronea,FALSE
+Boise National Forest,lycaena_heteronea,TRUE
+Bridger-Teton National Forest,lycaena_heteronea,TRUE
+Caribou-Targhee National Forest,lycaena_heteronea,TRUE
+Carson National Forest,lycaena_heteronea,TRUE
+Cibola National Forest,lycaena_heteronea,TRUE
+Cleveland National Forest,lycaena_heteronea,FALSE
+Coconino National Forest,lycaena_heteronea,TRUE
+Columbia River Gorge National Scenic Area,lycaena_heteronea,TRUE
+Colville National Forest,lycaena_heteronea,TRUE
+Coronado National Forest,lycaena_heteronea,FALSE
+Custer Gallatin National Forest,lycaena_heteronea,TRUE
+Dakota Prairie Grasslands,lycaena_heteronea,FALSE
+Deschutes National Forest,lycaena_heteronea,TRUE
+Dixie National Forest,lycaena_heteronea,TRUE
+Eldorado National Forest,lycaena_heteronea,TRUE
+Fishlake National Forest,lycaena_heteronea,TRUE
+Flathead National Forest,lycaena_heteronea,TRUE
+Fremont-Winema National Forest,lycaena_heteronea,TRUE
+Gifford Pinchot National Forest,lycaena_heteronea,TRUE
+Gila National Forest,lycaena_heteronea,FALSE
+"Grand Mesa, Uncompahgre and Gunnison National Forests",lycaena_heteronea,TRUE
+Helena-Lewis and Clark National Forest,lycaena_heteronea,TRUE
+Humboldt-Toiyabe National Forest,lycaena_heteronea,TRUE
+Idaho Panhandle National Forests,lycaena_heteronea,TRUE
+Inyo National Forest,lycaena_heteronea,TRUE
+Kaibab National Forest,lycaena_heteronea,TRUE
+Klamath National Forest,lycaena_heteronea,TRUE
+Kootenai National Forest,lycaena_heteronea,TRUE
+Lake Tahoe Basin Management Unit,lycaena_heteronea,TRUE
+Lassen National Forest,lycaena_heteronea,TRUE
+Lincoln National Forest,lycaena_heteronea,FALSE
+Lolo National Forest,lycaena_heteronea,TRUE
+Los Padres National Forest,lycaena_heteronea,TRUE
+Malheur National Forest,lycaena_heteronea,TRUE
+Manti-La Sal National Forest,lycaena_heteronea,TRUE
+Medicine Bow-Routt National Forest,lycaena_heteronea,TRUE
+Mendocino National Forest,lycaena_heteronea,TRUE
+Modoc National Forest,lycaena_heteronea,TRUE
+Mt. Baker-Snoqualmie National Forest,lycaena_heteronea,TRUE
+Mt. Hood National Forest,lycaena_heteronea,TRUE
+Nebraska National Forest,lycaena_heteronea,FALSE
+Nez Perce-Clearwater National Forest,lycaena_heteronea,TRUE
+Ochoco National Forest,lycaena_heteronea,TRUE
+Okanogan-Wenatchee National Forest,lycaena_heteronea,TRUE
+Olympic National Forest,lycaena_heteronea,TRUE
+Payette National Forest,lycaena_heteronea,TRUE
+Pike and San Isabel National Forests,lycaena_heteronea,TRUE
+Plumas National Forest,lycaena_heteronea,TRUE
+Prescott National Forest,lycaena_heteronea,TRUE
+Rio Grande National Forest,lycaena_heteronea,TRUE
+Rogue River-Siskiyou National Forests,lycaena_heteronea,TRUE
+Salmon-Challis National Forest,lycaena_heteronea,TRUE
+San Bernardino National Forest,lycaena_heteronea,FALSE
+San Juan National Forest,lycaena_heteronea,TRUE
+Santa Fe National Forest,lycaena_heteronea,TRUE
+Sawtooth National Forest,lycaena_heteronea,TRUE
+Sequoia National Forest,lycaena_heteronea,TRUE
+Shasta-Trinity National Forest,lycaena_heteronea,TRUE
+Shoshone National Forest,lycaena_heteronea,TRUE
+Sierra National Forest,lycaena_heteronea,TRUE
+Siuslaw National Forest,lycaena_heteronea,TRUE
+Six Rivers National Forest,lycaena_heteronea,TRUE
+Stanislaus National Forest,lycaena_heteronea,TRUE
+Tahoe National Forest,lycaena_heteronea,TRUE
+Tonto National Forest,lycaena_heteronea,FALSE
+Uinta-Wasatch-Cache National Forest,lycaena_heteronea,TRUE
+Umatilla National Forest,lycaena_heteronea,TRUE
+Umpqua National Forest,lycaena_heteronea,TRUE
+Wallowa-Whitman National Forest,lycaena_heteronea,TRUE
+White River National Forest,lycaena_heteronea,TRUE
+Willamette National Forest,lycaena_heteronea,TRUE
+Angeles National Forest,lycaena_mariposa,FALSE
+Apache-Sitgreaves National Forests,lycaena_mariposa,FALSE
+Arapaho and Roosevelt National Forests,lycaena_mariposa,TRUE
+Ashley National Forest,lycaena_mariposa,TRUE
+Beaverhead-Deerlodge National Forest,lycaena_mariposa,TRUE
+Bighorn National Forest,lycaena_mariposa,TRUE
+Bitterroot National Forest,lycaena_mariposa,TRUE
+Black Hills National Forest,lycaena_mariposa,FALSE
+Boise National Forest,lycaena_mariposa,TRUE
+Bridger-Teton National Forest,lycaena_mariposa,TRUE
+Caribou-Targhee National Forest,lycaena_mariposa,TRUE
+Carson National Forest,lycaena_mariposa,TRUE
+Cibola National Forest,lycaena_mariposa,TRUE
+Cleveland National Forest,lycaena_mariposa,FALSE
+Coconino National Forest,lycaena_mariposa,FALSE
+Columbia River Gorge National Scenic Area,lycaena_mariposa,TRUE
+Colville National Forest,lycaena_mariposa,TRUE
+Coronado National Forest,lycaena_mariposa,FALSE
+Custer Gallatin National Forest,lycaena_mariposa,TRUE
+Dakota Prairie Grasslands,lycaena_mariposa,FALSE
+Deschutes National Forest,lycaena_mariposa,TRUE
+Dixie National Forest,lycaena_mariposa,FALSE
+Eldorado National Forest,lycaena_mariposa,TRUE
+Fishlake National Forest,lycaena_mariposa,FALSE
+Flathead National Forest,lycaena_mariposa,TRUE
+Fremont-Winema National Forest,lycaena_mariposa,TRUE
+Gifford Pinchot National Forest,lycaena_mariposa,TRUE
+Gila National Forest,lycaena_mariposa,FALSE
+"Grand Mesa, Uncompahgre and Gunnison National Forests",lycaena_mariposa,TRUE
+Helena-Lewis and Clark National Forest,lycaena_mariposa,TRUE
+Humboldt-Toiyabe National Forest,lycaena_mariposa,TRUE
+Idaho Panhandle National Forests,lycaena_mariposa,TRUE
+Inyo National Forest,lycaena_mariposa,TRUE
+Kaibab National Forest,lycaena_mariposa,FALSE
+Klamath National Forest,lycaena_mariposa,TRUE
+Kootenai National Forest,lycaena_mariposa,TRUE
+Lake Tahoe Basin Management Unit,lycaena_mariposa,TRUE
+Lassen National Forest,lycaena_mariposa,TRUE
+Lincoln National Forest,lycaena_mariposa,FALSE
+Lolo National Forest,lycaena_mariposa,TRUE
+Los Padres National Forest,lycaena_mariposa,FALSE
+Malheur National Forest,lycaena_mariposa,TRUE
+Manti-La Sal National Forest,lycaena_mariposa,TRUE
+Medicine Bow-Routt National Forest,lycaena_mariposa,TRUE
+Mendocino National Forest,lycaena_mariposa,TRUE
+Modoc National Forest,lycaena_mariposa,TRUE
+Mt. Baker-Snoqualmie National Forest,lycaena_mariposa,TRUE
+Mt. Hood National Forest,lycaena_mariposa,TRUE
+Nebraska National Forest,lycaena_mariposa,FALSE
+Nez Perce-Clearwater National Forest,lycaena_mariposa,TRUE
+Ochoco National Forest,lycaena_mariposa,TRUE
+Okanogan-Wenatchee National Forest,lycaena_mariposa,TRUE
+Olympic National Forest,lycaena_mariposa,TRUE
+Payette National Forest,lycaena_mariposa,TRUE
+Pike and San Isabel National Forests,lycaena_mariposa,TRUE
+Plumas National Forest,lycaena_mariposa,TRUE
+Prescott National Forest,lycaena_mariposa,FALSE
+Rio Grande National Forest,lycaena_mariposa,TRUE
+Rogue River-Siskiyou National Forests,lycaena_mariposa,TRUE
+Salmon-Challis National Forest,lycaena_mariposa,TRUE
+San Bernardino National Forest,lycaena_mariposa,FALSE
+San Juan National Forest,lycaena_mariposa,TRUE
+Santa Fe National Forest,lycaena_mariposa,TRUE
+Sawtooth National Forest,lycaena_mariposa,TRUE
+Sequoia National Forest,lycaena_mariposa,TRUE
+Shasta-Trinity National Forest,lycaena_mariposa,TRUE
+Shoshone National Forest,lycaena_mariposa,TRUE
+Sierra National Forest,lycaena_mariposa,TRUE
+Siuslaw National Forest,lycaena_mariposa,TRUE
+Six Rivers National Forest,lycaena_mariposa,TRUE
+Stanislaus National Forest,lycaena_mariposa,TRUE
+Tahoe National Forest,lycaena_mariposa,TRUE
+Tonto National Forest,lycaena_mariposa,FALSE
+Uinta-Wasatch-Cache National Forest,lycaena_mariposa,TRUE
+Umatilla National Forest,lycaena_mariposa,TRUE
+Umpqua National Forest,lycaena_mariposa,TRUE
+Wallowa-Whitman National Forest,lycaena_mariposa,TRUE
+White River National Forest,lycaena_mariposa,TRUE
+Willamette National Forest,lycaena_mariposa,TRUE
+Angeles National Forest,ochlodes_sylvanoides,TRUE
+Apache-Sitgreaves National Forests,ochlodes_sylvanoides,TRUE
+Arapaho and Roosevelt National Forests,ochlodes_sylvanoides,TRUE
+Ashley National Forest,ochlodes_sylvanoides,FALSE
+Beaverhead-Deerlodge National Forest,ochlodes_sylvanoides,TRUE
+Bighorn National Forest,ochlodes_sylvanoides,FALSE
+Bitterroot National Forest,ochlodes_sylvanoides,TRUE
+Black Hills National Forest,ochlodes_sylvanoides,FALSE
+Boise National Forest,ochlodes_sylvanoides,TRUE
+Bridger-Teton National Forest,ochlodes_sylvanoides,TRUE
+Caribou-Targhee National Forest,ochlodes_sylvanoides,TRUE
+Carson National Forest,ochlodes_sylvanoides,TRUE
+Cibola National Forest,ochlodes_sylvanoides,TRUE
+Cleveland National Forest,ochlodes_sylvanoides,TRUE
+Coconino National Forest,ochlodes_sylvanoides,FALSE
+Columbia River Gorge National Scenic Area,ochlodes_sylvanoides,TRUE
+Colville National Forest,ochlodes_sylvanoides,TRUE
+Coronado National Forest,ochlodes_sylvanoides,TRUE
+Custer Gallatin National Forest,ochlodes_sylvanoides,TRUE
+Dakota Prairie Grasslands,ochlodes_sylvanoides,FALSE
+Deschutes National Forest,ochlodes_sylvanoides,TRUE
+Dixie National Forest,ochlodes_sylvanoides,FALSE
+Eldorado National Forest,ochlodes_sylvanoides,TRUE
+Fishlake National Forest,ochlodes_sylvanoides,FALSE
+Flathead National Forest,ochlodes_sylvanoides,TRUE
+Fremont-Winema National Forest,ochlodes_sylvanoides,TRUE
+Gifford Pinchot National Forest,ochlodes_sylvanoides,TRUE
+Gila National Forest,ochlodes_sylvanoides,FALSE
+"Grand Mesa, Uncompahgre and Gunnison National Forests",ochlodes_sylvanoides,TRUE
+Helena-Lewis and Clark National Forest,ochlodes_sylvanoides,TRUE
+Humboldt-Toiyabe National Forest,ochlodes_sylvanoides,TRUE
+Idaho Panhandle National Forests,ochlodes_sylvanoides,TRUE
+Inyo National Forest,ochlodes_sylvanoides,TRUE
+Kaibab National Forest,ochlodes_sylvanoides,FALSE
+Klamath National Forest,ochlodes_sylvanoides,TRUE
+Kootenai National Forest,ochlodes_sylvanoides,TRUE
+Lake Tahoe Basin Management Unit,ochlodes_sylvanoides,TRUE
+Lassen National Forest,ochlodes_sylvanoides,TRUE
+Lincoln National Forest,ochlodes_sylvanoides,FALSE
+Lolo National Forest,ochlodes_sylvanoides,TRUE
+Los Padres National Forest,ochlodes_sylvanoides,TRUE
+Malheur National Forest,ochlodes_sylvanoides,TRUE
+Manti-La Sal National Forest,ochlodes_sylvanoides,TRUE
+Medicine Bow-Routt National Forest,ochlodes_sylvanoides,TRUE
+Mendocino National Forest,ochlodes_sylvanoides,TRUE
+Modoc National Forest,ochlodes_sylvanoides,TRUE
+Mt. Baker-Snoqualmie National Forest,ochlodes_sylvanoides,TRUE
+Mt. Hood National Forest,ochlodes_sylvanoides,TRUE
+Nebraska National Forest,ochlodes_sylvanoides,FALSE
+Nez Perce-Clearwater National Forest,ochlodes_sylvanoides,TRUE
+Ochoco National Forest,ochlodes_sylvanoides,TRUE
+Okanogan-Wenatchee National Forest,ochlodes_sylvanoides,TRUE
+Olympic National Forest,ochlodes_sylvanoides,TRUE
+Payette National Forest,ochlodes_sylvanoides,TRUE
+Pike and San Isabel National Forests,ochlodes_sylvanoides,TRUE
+Plumas National Forest,ochlodes_sylvanoides,TRUE
+Prescott National Forest,ochlodes_sylvanoides,FALSE
+Rio Grande National Forest,ochlodes_sylvanoides,TRUE
+Rogue River-Siskiyou National Forests,ochlodes_sylvanoides,TRUE
+Salmon-Challis National Forest,ochlodes_sylvanoides,TRUE
+San Bernardino National Forest,ochlodes_sylvanoides,TRUE
+San Juan National Forest,ochlodes_sylvanoides,TRUE
+Santa Fe National Forest,ochlodes_sylvanoides,TRUE
+Sawtooth National Forest,ochlodes_sylvanoides,TRUE
+Sequoia National Forest,ochlodes_sylvanoides,TRUE
+Shasta-Trinity National Forest,ochlodes_sylvanoides,TRUE
+Shoshone National Forest,ochlodes_sylvanoides,TRUE
+Sierra National Forest,ochlodes_sylvanoides,TRUE
+Siuslaw National Forest,ochlodes_sylvanoides,TRUE
+Six Rivers National Forest,ochlodes_sylvanoides,TRUE
+Stanislaus National Forest,ochlodes_sylvanoides,TRUE
+Tahoe National Forest,ochlodes_sylvanoides,TRUE
+Tonto National Forest,ochlodes_sylvanoides,TRUE
+Uinta-Wasatch-Cache National Forest,ochlodes_sylvanoides,TRUE
+Umatilla National Forest,ochlodes_sylvanoides,TRUE
+Umpqua National Forest,ochlodes_sylvanoides,TRUE
+Wallowa-Whitman National Forest,ochlodes_sylvanoides,TRUE
+White River National Forest,ochlodes_sylvanoides,TRUE
+Willamette National Forest,ochlodes_sylvanoides,TRUE
+Angeles National Forest,plebejus_anna,TRUE
+Apache-Sitgreaves National Forests,plebejus_anna,FALSE
+Arapaho and Roosevelt National Forests,plebejus_anna,FALSE
+Ashley National Forest,plebejus_anna,FALSE
+Beaverhead-Deerlodge National Forest,plebejus_anna,FALSE
+Bighorn National Forest,plebejus_anna,FALSE
+Bitterroot National Forest,plebejus_anna,FALSE
+Black Hills National Forest,plebejus_anna,FALSE
+Boise National Forest,plebejus_anna,FALSE
+Bridger-Teton National Forest,plebejus_anna,FALSE
+Caribou-Targhee National Forest,plebejus_anna,FALSE
+Carson National Forest,plebejus_anna,FALSE
+Cibola National Forest,plebejus_anna,FALSE
+Cleveland National Forest,plebejus_anna,FALSE
+Coconino National Forest,plebejus_anna,FALSE
+Columbia River Gorge National Scenic Area,plebejus_anna,TRUE
+Colville National Forest,plebejus_anna,FALSE
+Coronado National Forest,plebejus_anna,FALSE
+Custer Gallatin National Forest,plebejus_anna,FALSE
+Dakota Prairie Grasslands,plebejus_anna,FALSE
+Deschutes National Forest,plebejus_anna,TRUE
+Dixie National Forest,plebejus_anna,FALSE
+Eldorado National Forest,plebejus_anna,TRUE
+Fishlake National Forest,plebejus_anna,FALSE
+Flathead National Forest,plebejus_anna,FALSE
+Fremont-Winema National Forest,plebejus_anna,TRUE
+Gifford Pinchot National Forest,plebejus_anna,TRUE
+Gila National Forest,plebejus_anna,FALSE
+"Grand Mesa, Uncompahgre and Gunnison National Forests",plebejus_anna,FALSE
+Helena-Lewis and Clark National Forest,plebejus_anna,FALSE
+Humboldt-Toiyabe National Forest,plebejus_anna,TRUE
+Idaho Panhandle National Forests,plebejus_anna,FALSE
+Inyo National Forest,plebejus_anna,TRUE
+Kaibab National Forest,plebejus_anna,FALSE
+Klamath National Forest,plebejus_anna,TRUE
+Kootenai National Forest,plebejus_anna,FALSE
+Lake Tahoe Basin Management Unit,plebejus_anna,TRUE
+Lassen National Forest,plebejus_anna,TRUE
+Lincoln National Forest,plebejus_anna,FALSE
+Lolo National Forest,plebejus_anna,FALSE
+Los Padres National Forest,plebejus_anna,TRUE
+Malheur National Forest,plebejus_anna,FALSE
+Manti-La Sal National Forest,plebejus_anna,FALSE
+Medicine Bow-Routt National Forest,plebejus_anna,FALSE
+Mendocino National Forest,plebejus_anna,TRUE
+Modoc National Forest,plebejus_anna,FALSE
+Mt. Baker-Snoqualmie National Forest,plebejus_anna,TRUE
+Mt. Hood National Forest,plebejus_anna,TRUE
+Nebraska National Forest,plebejus_anna,FALSE
+Nez Perce-Clearwater National Forest,plebejus_anna,FALSE
+Ochoco National Forest,plebejus_anna,FALSE
+Okanogan-Wenatchee National Forest,plebejus_anna,TRUE
+Olympic National Forest,plebejus_anna,TRUE
+Payette National Forest,plebejus_anna,FALSE
+Pike and San Isabel National Forests,plebejus_anna,FALSE
+Plumas National Forest,plebejus_anna,TRUE
+Prescott National Forest,plebejus_anna,FALSE
+Rio Grande National Forest,plebejus_anna,FALSE
+Rogue River-Siskiyou National Forests,plebejus_anna,TRUE
+Salmon-Challis National Forest,plebejus_anna,FALSE
+San Bernardino National Forest,plebejus_anna,TRUE
+San Juan National Forest,plebejus_anna,FALSE
+Santa Fe National Forest,plebejus_anna,FALSE
+Sawtooth National Forest,plebejus_anna,FALSE
+Sequoia National Forest,plebejus_anna,TRUE
+Shasta-Trinity National Forest,plebejus_anna,TRUE
+Shoshone National Forest,plebejus_anna,FALSE
+Sierra National Forest,plebejus_anna,TRUE
+Siuslaw National Forest,plebejus_anna,TRUE
+Six Rivers National Forest,plebejus_anna,TRUE
+Stanislaus National Forest,plebejus_anna,TRUE
+Tahoe National Forest,plebejus_anna,TRUE
+Tonto National Forest,plebejus_anna,FALSE
+Uinta-Wasatch-Cache National Forest,plebejus_anna,FALSE
+Umatilla National Forest,plebejus_anna,FALSE
+Umpqua National Forest,plebejus_anna,TRUE
+Wallowa-Whitman National Forest,plebejus_anna,FALSE
+White River National Forest,plebejus_anna,FALSE
+Willamette National Forest,plebejus_anna,TRUE
+Angeles National Forest,polygonia_gracilis,TRUE
+Apache-Sitgreaves National Forests,polygonia_gracilis,TRUE
+Arapaho and Roosevelt National Forests,polygonia_gracilis,TRUE
+Ashley National Forest,polygonia_gracilis,TRUE
+Beaverhead-Deerlodge National Forest,polygonia_gracilis,TRUE
+Bighorn National Forest,polygonia_gracilis,TRUE
+Bitterroot National Forest,polygonia_gracilis,TRUE
+Black Hills National Forest,polygonia_gracilis,TRUE
+Boise National Forest,polygonia_gracilis,TRUE
+Bridger-Teton National Forest,polygonia_gracilis,TRUE
+Caribou-Targhee National Forest,polygonia_gracilis,TRUE
+Carson National Forest,polygonia_gracilis,TRUE
+Cibola National Forest,polygonia_gracilis,TRUE
+Cleveland National Forest,polygonia_gracilis,TRUE
+Coconino National Forest,polygonia_gracilis,TRUE
+Columbia River Gorge National Scenic Area,polygonia_gracilis,TRUE
+Colville National Forest,polygonia_gracilis,TRUE
+Coronado National Forest,polygonia_gracilis,TRUE
+Custer Gallatin National Forest,polygonia_gracilis,TRUE
+Dakota Prairie Grasslands,polygonia_gracilis,FALSE
+Deschutes National Forest,polygonia_gracilis,TRUE
+Dixie National Forest,polygonia_gracilis,TRUE
+Eldorado National Forest,polygonia_gracilis,TRUE
+Fishlake National Forest,polygonia_gracilis,TRUE
+Flathead National Forest,polygonia_gracilis,TRUE
+Fremont-Winema National Forest,polygonia_gracilis,TRUE
+Gifford Pinchot National Forest,polygonia_gracilis,TRUE
+Gila National Forest,polygonia_gracilis,TRUE
+"Grand Mesa, Uncompahgre and Gunnison National Forests",polygonia_gracilis,TRUE
+Helena-Lewis and Clark National Forest,polygonia_gracilis,TRUE
+Humboldt-Toiyabe National Forest,polygonia_gracilis,TRUE
+Idaho Panhandle National Forests,polygonia_gracilis,TRUE
+Inyo National Forest,polygonia_gracilis,TRUE
+Kaibab National Forest,polygonia_gracilis,TRUE
+Klamath National Forest,polygonia_gracilis,TRUE
+Kootenai National Forest,polygonia_gracilis,TRUE
+Lake Tahoe Basin Management Unit,polygonia_gracilis,TRUE
+Lassen National Forest,polygonia_gracilis,TRUE
+Lincoln National Forest,polygonia_gracilis,TRUE
+Lolo National Forest,polygonia_gracilis,TRUE
+Los Padres National Forest,polygonia_gracilis,TRUE
+Malheur National Forest,polygonia_gracilis,TRUE
+Manti-La Sal National Forest,polygonia_gracilis,TRUE
+Medicine Bow-Routt National Forest,polygonia_gracilis,TRUE
+Mendocino National Forest,polygonia_gracilis,FALSE
+Modoc National Forest,polygonia_gracilis,TRUE
+Mt. Baker-Snoqualmie National Forest,polygonia_gracilis,TRUE
+Mt. Hood National Forest,polygonia_gracilis,TRUE
+Nebraska National Forest,polygonia_gracilis,TRUE
+Nez Perce-Clearwater National Forest,polygonia_gracilis,TRUE
+Ochoco National Forest,polygonia_gracilis,TRUE
+Okanogan-Wenatchee National Forest,polygonia_gracilis,TRUE
+Olympic National Forest,polygonia_gracilis,TRUE
+Payette National Forest,polygonia_gracilis,TRUE
+Pike and San Isabel National Forests,polygonia_gracilis,TRUE
+Plumas National Forest,polygonia_gracilis,TRUE
+Prescott National Forest,polygonia_gracilis,TRUE
+Rio Grande National Forest,polygonia_gracilis,TRUE
+Rogue River-Siskiyou National Forests,polygonia_gracilis,TRUE
+Salmon-Challis National Forest,polygonia_gracilis,TRUE
+San Bernardino National Forest,polygonia_gracilis,TRUE
+San Juan National Forest,polygonia_gracilis,TRUE
+Santa Fe National Forest,polygonia_gracilis,TRUE
+Sawtooth National Forest,polygonia_gracilis,TRUE
+Sequoia National Forest,polygonia_gracilis,TRUE
+Shasta-Trinity National Forest,polygonia_gracilis,TRUE
+Shoshone National Forest,polygonia_gracilis,TRUE
+Sierra National Forest,polygonia_gracilis,TRUE
+Siuslaw National Forest,polygonia_gracilis,TRUE
+Six Rivers National Forest,polygonia_gracilis,TRUE
+Stanislaus National Forest,polygonia_gracilis,TRUE
+Tahoe National Forest,polygonia_gracilis,TRUE
+Tonto National Forest,polygonia_gracilis,TRUE
+Uinta-Wasatch-Cache National Forest,polygonia_gracilis,TRUE
+Umatilla National Forest,polygonia_gracilis,TRUE
+Umpqua National Forest,polygonia_gracilis,TRUE
+Wallowa-Whitman National Forest,polygonia_gracilis,TRUE
+White River National Forest,polygonia_gracilis,TRUE
+Willamette National Forest,polygonia_gracilis,TRUE
+Angeles National Forest,speyeria_cybele,TRUE
+Apache-Sitgreaves National Forests,speyeria_cybele,TRUE
+Arapaho and Roosevelt National Forests,speyeria_cybele,TRUE
+Ashley National Forest,speyeria_cybele,TRUE
+Beaverhead-Deerlodge National Forest,speyeria_cybele,TRUE
+Bighorn National Forest,speyeria_cybele,TRUE
+Bitterroot National Forest,speyeria_cybele,TRUE
+Black Hills National Forest,speyeria_cybele,TRUE
+Boise National Forest,speyeria_cybele,TRUE
+Bridger-Teton National Forest,speyeria_cybele,TRUE
+Caribou-Targhee National Forest,speyeria_cybele,TRUE
+Carson National Forest,speyeria_cybele,TRUE
+Cibola National Forest,speyeria_cybele,TRUE
+Cleveland National Forest,speyeria_cybele,TRUE
+Coconino National Forest,speyeria_cybele,TRUE
+Columbia River Gorge National Scenic Area,speyeria_cybele,TRUE
+Colville National Forest,speyeria_cybele,TRUE
+Coronado National Forest,speyeria_cybele,TRUE
+Custer Gallatin National Forest,speyeria_cybele,TRUE
+Dakota Prairie Grasslands,speyeria_cybele,FALSE
+Deschutes National Forest,speyeria_cybele,TRUE
+Dixie National Forest,speyeria_cybele,TRUE
+Eldorado National Forest,speyeria_cybele,TRUE
+Fishlake National Forest,speyeria_cybele,TRUE
+Flathead National Forest,speyeria_cybele,TRUE
+Fremont-Winema National Forest,speyeria_cybele,TRUE
+Gifford Pinchot National Forest,speyeria_cybele,TRUE
+Gila National Forest,speyeria_cybele,TRUE
+"Grand Mesa, Uncompahgre and Gunnison National Forests",speyeria_cybele,TRUE
+Helena-Lewis and Clark National Forest,speyeria_cybele,TRUE
+Humboldt-Toiyabe National Forest,speyeria_cybele,TRUE
+Idaho Panhandle National Forests,speyeria_cybele,TRUE
+Inyo National Forest,speyeria_cybele,TRUE
+Kaibab National Forest,speyeria_cybele,TRUE
+Klamath National Forest,speyeria_cybele,TRUE
+Kootenai National Forest,speyeria_cybele,TRUE
+Lake Tahoe Basin Management Unit,speyeria_cybele,TRUE
+Lassen National Forest,speyeria_cybele,TRUE
+Lincoln National Forest,speyeria_cybele,TRUE
+Lolo National Forest,speyeria_cybele,TRUE
+Los Padres National Forest,speyeria_cybele,TRUE
+Malheur National Forest,speyeria_cybele,TRUE
+Manti-La Sal National Forest,speyeria_cybele,TRUE
+Medicine Bow-Routt National Forest,speyeria_cybele,TRUE
+Mendocino National Forest,speyeria_cybele,TRUE
+Modoc National Forest,speyeria_cybele,TRUE
+Mt. Baker-Snoqualmie National Forest,speyeria_cybele,TRUE
+Mt. Hood National Forest,speyeria_cybele,TRUE
+Nebraska National Forest,speyeria_cybele,TRUE
+Nez Perce-Clearwater National Forest,speyeria_cybele,TRUE
+Ochoco National Forest,speyeria_cybele,TRUE
+Okanogan-Wenatchee National Forest,speyeria_cybele,TRUE
+Olympic National Forest,speyeria_cybele,TRUE
+Payette National Forest,speyeria_cybele,TRUE
+Pike and San Isabel National Forests,speyeria_cybele,TRUE
+Plumas National Forest,speyeria_cybele,TRUE
+Prescott National Forest,speyeria_cybele,TRUE
+Rio Grande National Forest,speyeria_cybele,TRUE
+Rogue River-Siskiyou National Forests,speyeria_cybele,TRUE
+Salmon-Challis National Forest,speyeria_cybele,TRUE
+San Bernardino National Forest,speyeria_cybele,TRUE
+San Juan National Forest,speyeria_cybele,TRUE
+Santa Fe National Forest,speyeria_cybele,TRUE
+Sawtooth National Forest,speyeria_cybele,TRUE
+Sequoia National Forest,speyeria_cybele,TRUE
+Shasta-Trinity National Forest,speyeria_cybele,TRUE
+Shoshone National Forest,speyeria_cybele,TRUE
+Sierra National Forest,speyeria_cybele,TRUE
+Siuslaw National Forest,speyeria_cybele,TRUE
+Six Rivers National Forest,speyeria_cybele,TRUE
+Stanislaus National Forest,speyeria_cybele,TRUE
+Tahoe National Forest,speyeria_cybele,TRUE
+Tonto National Forest,speyeria_cybele,TRUE
+Uinta-Wasatch-Cache National Forest,speyeria_cybele,TRUE
+Umatilla National Forest,speyeria_cybele,TRUE
+Umpqua National Forest,speyeria_cybele,TRUE
+Wallowa-Whitman National Forest,speyeria_cybele,TRUE
+White River National Forest,speyeria_cybele,TRUE
+Willamette National Forest,speyeria_cybele,TRUE
+Angeles National Forest,vanessa_cardui,TRUE
+Apache-Sitgreaves National Forests,vanessa_cardui,TRUE
+Arapaho and Roosevelt National Forests,vanessa_cardui,TRUE
+Ashley National Forest,vanessa_cardui,TRUE
+Beaverhead-Deerlodge National Forest,vanessa_cardui,TRUE
+Bighorn National Forest,vanessa_cardui,TRUE
+Bitterroot National Forest,vanessa_cardui,TRUE
+Black Hills National Forest,vanessa_cardui,TRUE
+Boise National Forest,vanessa_cardui,TRUE
+Bridger-Teton National Forest,vanessa_cardui,TRUE
+Caribou-Targhee National Forest,vanessa_cardui,TRUE
+Carson National Forest,vanessa_cardui,TRUE
+Cibola National Forest,vanessa_cardui,TRUE
+Cleveland National Forest,vanessa_cardui,TRUE
+Coconino National Forest,vanessa_cardui,TRUE
+Columbia River Gorge National Scenic Area,vanessa_cardui,TRUE
+Colville National Forest,vanessa_cardui,TRUE
+Coronado National Forest,vanessa_cardui,TRUE
+Custer Gallatin National Forest,vanessa_cardui,TRUE
+Dakota Prairie Grasslands,vanessa_cardui,FALSE
+Deschutes National Forest,vanessa_cardui,TRUE
+Dixie National Forest,vanessa_cardui,TRUE
+Eldorado National Forest,vanessa_cardui,TRUE
+Fishlake National Forest,vanessa_cardui,TRUE
+Flathead National Forest,vanessa_cardui,TRUE
+Fremont-Winema National Forest,vanessa_cardui,TRUE
+Gifford Pinchot National Forest,vanessa_cardui,TRUE
+Gila National Forest,vanessa_cardui,TRUE
+"Grand Mesa, Uncompahgre and Gunnison National Forests",vanessa_cardui,TRUE
+Helena-Lewis and Clark National Forest,vanessa_cardui,TRUE
+Humboldt-Toiyabe National Forest,vanessa_cardui,TRUE
+Idaho Panhandle National Forests,vanessa_cardui,TRUE
+Inyo National Forest,vanessa_cardui,TRUE
+Kaibab National Forest,vanessa_cardui,TRUE
+Klamath National Forest,vanessa_cardui,TRUE
+Kootenai National Forest,vanessa_cardui,TRUE
+Lake Tahoe Basin Management Unit,vanessa_cardui,TRUE
+Lassen National Forest,vanessa_cardui,TRUE
+Lincoln National Forest,vanessa_cardui,TRUE
+Lolo National Forest,vanessa_cardui,TRUE
+Los Padres National Forest,vanessa_cardui,TRUE
+Malheur National Forest,vanessa_cardui,TRUE
+Manti-La Sal National Forest,vanessa_cardui,TRUE
+Medicine Bow-Routt National Forest,vanessa_cardui,TRUE
+Mendocino National Forest,vanessa_cardui,TRUE
+Modoc National Forest,vanessa_cardui,TRUE
+Mt. Baker-Snoqualmie National Forest,vanessa_cardui,TRUE
+Mt. Hood National Forest,vanessa_cardui,TRUE
+Nebraska National Forest,vanessa_cardui,TRUE
+Nez Perce-Clearwater National Forest,vanessa_cardui,TRUE
+Ochoco National Forest,vanessa_cardui,TRUE
+Okanogan-Wenatchee National Forest,vanessa_cardui,TRUE
+Olympic National Forest,vanessa_cardui,TRUE
+Payette National Forest,vanessa_cardui,TRUE
+Pike and San Isabel National Forests,vanessa_cardui,TRUE
+Plumas National Forest,vanessa_cardui,TRUE
+Prescott National Forest,vanessa_cardui,TRUE
+Rio Grande National Forest,vanessa_cardui,TRUE
+Rogue River-Siskiyou National Forests,vanessa_cardui,TRUE
+Salmon-Challis National Forest,vanessa_cardui,TRUE
+San Bernardino National Forest,vanessa_cardui,TRUE
+San Juan National Forest,vanessa_cardui,TRUE
+Santa Fe National Forest,vanessa_cardui,TRUE
+Sawtooth National Forest,vanessa_cardui,TRUE
+Sequoia National Forest,vanessa_cardui,TRUE
+Shasta-Trinity National Forest,vanessa_cardui,TRUE
+Shoshone National Forest,vanessa_cardui,TRUE
+Sierra National Forest,vanessa_cardui,TRUE
+Siuslaw National Forest,vanessa_cardui,TRUE
+Six Rivers National Forest,vanessa_cardui,TRUE
+Stanislaus National Forest,vanessa_cardui,TRUE
+Tahoe National Forest,vanessa_cardui,TRUE
+Tonto National Forest,vanessa_cardui,TRUE
+Uinta-Wasatch-Cache National Forest,vanessa_cardui,TRUE
+Umatilla National Forest,vanessa_cardui,TRUE
+Umpqua National Forest,vanessa_cardui,TRUE
+Wallowa-Whitman National Forest,vanessa_cardui,TRUE
+White River National Forest,vanessa_cardui,TRUE
+Willamette National Forest,vanessa_cardui,TRUE

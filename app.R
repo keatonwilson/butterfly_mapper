@@ -132,21 +132,22 @@ server <- function(input, output) {
                     lng = focal_centroid_df()$long, 
                     zoom = 6) %>%
             addTiles() %>%
-            addPolygons(data = nfs, color = "#FFFF99", 
+            addPolygons(data = nfs, color = "yellowgreen", 
                         weight = 1, smoothFactor = 1,
                         opacity = 0.3, fillOpacity = 0.5, 
                         label = nfs$FORESTNAME, 
-                        highlightOptions = highlightOptions(color = "white", 
-                                                            weight = 1)) %>%
-            addRasterImage(rast(), colors = "#87CEEB",
-                           opacity = 0.8) %>%
-            addCircleMarkers(~longitude, ~latitude, radius = 2, 
+                        highlightOptions = highlightOptions(color = "black", 
+                                                            weight = 2)) %>%
+            addRasterImage(rast(), colors = "maroon",
+                           opacity = 0.5) %>%
+            addCircleMarkers(~longitude, ~latitude, radius = 3, 
                              color = ~pal(provider), 
                              stroke = FALSE,
-                             fillOpacity = 0.6) %>%
+                             fillOpacity = 0.6, 
+                             opacity = 0.5) %>%
             addLegend(colors = c("navy", "red"), title = "Occurrence Data", 
                       labels = c("Adventure Scientists", "iNaturalist")) %>%
-            addLegend(colors = c("#FFFF99", "#87CEEB"), title = "Layers", 
+            addLegend(colors = c("yellowgreen", "maroon"), title = "Layers", 
                       labels = c("National Forest", "Predicted Species Occurrence"))
     })
     

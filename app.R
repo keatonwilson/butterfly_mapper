@@ -26,7 +26,7 @@ occ_data = read_csv("./data/species_obs.csv") %>%
 
 unique_species = unique(occ_data$scientific_name)
 
-checklist = read_csv("./checklist.csv") %>%
+checklist = read_csv("./data/checklist.csv") %>%
     mutate(species = str_replace(species, "_", " ") %>% str_to_sentence())
 
 

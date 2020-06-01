@@ -5,8 +5,8 @@ account: sonorandatascience
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 2386523
-bundleId: 3211915
+bundleId: 3211958
 url: https://sonorandatascience.shinyapps.io/butterfly_mapper/
-when: 1590963263.15483
+when: 1590964644.13022
 asMultiple: FALSE
 asStatic: FALSE

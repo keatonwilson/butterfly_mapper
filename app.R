@@ -19,6 +19,7 @@ library(DT)
 library(maptools)
 library(maps)
 library(sf)
+library(RColorBrewer)
 
 # Setting up data outside of ui and server
 occ_data = read_csv("./data/species_obs.csv") %>%
@@ -60,26 +61,39 @@ nfs = readRDS("./data/nfs_small.rds")
 
 
 # Define UI for application that draws a histogram
-ui <- fluidPage(theme = shinytheme("superhero"),
+ui <- fluidPage(theme = shinytheme("yeti"),
 
     # Application title
-    titlePanel("Butterfly Mapper"),
+    tabsetPanel(
+        tabPanel("Butterfly Mapper", fluid = TRUE,
 
-    # Sidebar with a slider input for number of bins 
-    sidebarLayout(
-        sidebarPanel(
-            selectInput("species",
-                        "Select a Species:",
-                        choices = unique_species, 
-                        selected = unique_species[[1]]),
-            h4("Species Checklist"),
-            DT::dataTableOutput("checklist")
+            # Sidebar with a slider input for number of bins 
+            sidebarLayout(
+                sidebarPanel(
+                    selectInput("species",
+                                "Select a Species:",
+                                choices = unique_species, 
+                                selected = unique_species[[1]]),
+                    h4("Species Checklist"),
+                    DT::dataTableOutput("checklist_mini")
+                ),
+        
+                # Show a plot of the generated distribution
+                mainPanel(
+                   leafletOutput("species_map", height = 800)
+                )
+            )
         ),
-
-        # Show a plot of the generated distribution
-        mainPanel(
-           leafletOutput("species_map", height = 800)
-        )
+    tabPanel("Checklist", fluid = TRUE,
+             sidebarPanel(
+                 selectInput("forest",
+                             "Select a forest:",
+                             choices = sort(unique(as.character(nfs$FORESTNAME)))),
+             ),
+             mainPanel(
+                 DT::dataTableOutput("checklist_full", height = 800)
+             )
+             )
     )
 )
 
@@ -120,6 +134,13 @@ server <- function(input, output) {
         checklist %>% filter(species == input$species)
     })
     
+    checklist_full_sub = reactive({
+        checklist %>% filter(forest_name == input$forest, 
+                             present == TRUE) %>%
+            dplyr::select(-present) %>%
+            arrange(as.character(forest_name))
+    })
+    
     # palette
     pal = colorFactor(c("navy", "red"), domain = c("iNat", "as"))
     
@@ -132,13 +153,13 @@ server <- function(input, output) {
                     lng = focal_centroid_df()$long, 
                     zoom = 6) %>%
             addTiles() %>%
-            addPolygons(data = nfs, color = "yellowgreen", 
+            addPolygons(data = nfs, color = "#2cb42c", 
                         weight = 1, smoothFactor = 1,
                         opacity = 0.3, fillOpacity = 0.5, 
                         label = nfs$FORESTNAME, 
                         highlightOptions = highlightOptions(color = "black", 
                                                             weight = 2)) %>%
-            addRasterImage(rast(), colors = "maroon",
+            addRasterImage(rast(), colors = "#9970AB",
                            opacity = 0.5) %>%
             addCircleMarkers(~longitude, ~latitude, radius = 3, 
                              color = ~pal(provider), 
@@ -147,16 +168,23 @@ server <- function(input, output) {
                              opacity = 0.5) %>%
             addLegend(colors = c("navy", "red"), title = "Occurrence Data", 
                       labels = c("Adventure Scientists", "iNaturalist")) %>%
-            addLegend(colors = c("yellowgreen", "maroon"), title = "Layers", 
-                      labels = c("National Forest", "Predicted Species Occurrence"))
+            addLegend(colors = c("#a0d691", "#cab8d1", "#89B983"), title = "Layers", 
+                      labels = c("National Forest", 
+                                 "Predicted Species Occurrence", 
+                                 "Overlap"), 
+                      opacity = 1)
     })
     
-    # generating table checklist
-    output$checklist = DT::renderDataTable(checklist_sub(), 
+    # generating mini table checklist
+    output$checklist_mini = DT::renderDataTable(checklist_sub(), 
                                            colnames = c("Forest Name", 
                                                         "Species", 
                                                         "Predicted Presence"))
-    
+    # generating full checklist for second tab
+    output$checklist_full = DT::renderDataTable(checklist_full_sub(),
+                                                colnames = c("Forest Name", 
+                                                             "Species"), 
+                                                options = list(pageLength = 20))
 }
 
 # Run the application 
